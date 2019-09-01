@@ -13,6 +13,12 @@ class cmd(Cmd):
     intro = 'Welcome to the turtle shell.   Type help or ? to list commands.\n'
     prompt = '(turtle) '
 
+    def do_force(self, line):
+        print('force:', line)
+
+    def do_angle(self, line):
+        print('angle:', line)
+
     def do_help(self, line):
         print('hello')
 
