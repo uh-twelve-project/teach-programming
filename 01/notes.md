@@ -32,3 +32,13 @@
 - Clases?
 
 ## ¿Qué es programar?
+
+## Ejercicios de tarea
+
+1. Si tengo 2 variables, `a` y `b`, guardar en una variable `c` la pregunta de si `a` divide a `b`.
+
+2. Declarar una variable que tenga la suma de los 100 primeros números.
+
+3. Declarar la variable fuerza en función del ángulo y vice versa.
+
+4. ¿Qué tipo de valores se puede guardar en una variable?
